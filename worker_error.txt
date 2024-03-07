@@ -1,0 +1,3 @@
+Error in worker(<class 'KeyError'>): 'large-v2'
+['small', 'large-v2']
+Model name large-v2 in models: False
